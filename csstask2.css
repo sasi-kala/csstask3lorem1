@@ -1,0 +1,158 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.header
+{
+	display:flex ;
+	justify-content:space-around;
+	background-color: #113a5e;
+	color:white;
+     height: 200px;
+     width: 100%;
+    align-items: center;
+}
+
+.about
+{
+	background-color: #cee7ed;
+	padding: 0px 50px;
+}
+.section
+{
+	display: flex ;
+
+}
+.title
+{
+	padding: 50px;
+	line-height: 1.6;
+
+}
+.about_img
+{
+	padding:0px 50px 50px 50px;
+}
+.text
+{
+	text-align: justify;
+	line-height:1.4
+}
+.text p
+{
+  margin-top: 35px;
+  margin-right: 20%;
+
+}
+button
+{
+	margin-top: 50px;
+	background-color: #13ad9e;
+	color:white;
+	border-radius: 5px;
+	padding: 4px;
+
+	font-size: 16px;
+}
+.head 
+{    
+     margin-top: 40px;
+     margin-bottom:50px;
+
+	line-height: 1.6;
+}
+.contact
+{
+	margin-left: 50px;
+}
+.contact_info
+{
+	font-size: 17px;
+}
+.info
+{
+	color:gray;
+}
+.con
+{
+	display: flex;
+	
+	/*justify-content: space-between;*/
+	margin-right: 100px;
+	line-height:1.4 ;
+	
+}
+.con
+{
+	width: 100%;
+}
+.form
+{
+	width: 50%;
+}
+.contact_info
+{
+	width: 50%;
+}
+
+}
+.head 
+{    margin-left:-42px;
+	padding: 50px;
+}
+.form input
+{
+	width: 300px;
+	padding: 5px;
+}
+.form textarea
+
+{
+	width: 630px;
+	height: 200px;
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.msg
+{
+	border:3px solid red;
+	width:630px;
+	text-align: center;
+	background-color: red;
+	color:white;
+}
+.footer
+{
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	color:gray;
+
+}
+.part1
+{
+	margin-left: 50px;
+}
+.box1
+{
+	line-height: 1.5;
+}
+p
+{
+	font-family: 'Roboto', sans-serif;
+}
+.img img 
+{
+	padding-right: 10px;
+}
+h3,h2
+{
+	font-family: 'Roboto', sans-serif;
+}
+.s img 
+{
+	padding: 5px;
+}
